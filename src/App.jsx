@@ -7,7 +7,7 @@ import {
   Navbar,
   Sales,
   Stories,
-} from "./components";
+} from "./Components";
 import {
   heroapi,
   popularsales,
