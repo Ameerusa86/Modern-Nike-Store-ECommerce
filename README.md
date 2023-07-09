@@ -1,6 +1,8 @@
 # Modern-Nike-Store-ECommerce
 
-## Tchnologies 
+[DEMO](https://modern-nike-store-e-commerce.vercel.app/)
+
+## Technologies 
 1) React JS using Vite
 2) Tailwindcss
 3) Redux JS
